@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="x-apple-disable-message-reformatting">
+    <title>Mypimes | Desafíos de Consultoría 2026</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Montserrat:wght@700;800&display=swap');
+        table, td, div, h1, p {font-family: 'Inter', Arial, sans-serif;}
+        h1, h2, h3 {font-family: 'Montserrat', Arial, sans-serif;}
+        .section-title { color: #0BAC96; font-size: 14px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; }
+        .challenge-box { padding: 20px; background-color: rgba(255,255,255,0.03); border-left: 3px solid #0BAC96; margin-bottom: 20px; }
+    </style>
+</head>
+<body style="margin:0;padding:0;background-color:#08121c;">
+    <center>
+        <div style="width:100%;background-color:#11263B;">
+            <table role="presentation" style="width:100%;border-collapse:collapse;border:0;border-spacing:0;background-color:#11263B;">
+                <tr>
+                    <td align="center" style="padding:0;">
+                        
+                        <table role="presentation" style="width:600px;border-collapse:collapse;border:1px solid rgba(255,255,255,0.05);background-color:#11263B;" cellspacing="0" cellpadding="0">
+                            
+                            <tr>
+                                <td align="center" style="padding:30px 40px;">
+                                    <a href="https://mypimes.co" target="_blank">
+                                        <img src="https://storage.googleapis.com/msgsndr/TflE3Je6BY5vwRAtoeGL/media/6960589cf5d48905aff32d0b.png" alt="Mypimes Logo" width="150" border="0" />
+                                    </a>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding:0 40px 30px 40px;">
+                                    <h1 style="font-size:26px; color:#ffffff; line-height:1.3; margin:0 0 20px 0;">
+                                        El mercado ya no pide consejos,<br> <span style="color:#0BAC96;">ahora exige predicciones.</span>
+                                    </h1>
+                                    <p style="color:#b0b8c1; font-size:15px; line-height:1.6; margin:0;">
+                                        Sabemos que dirigir una firma de consultoría de gestión en 2026 no es solo cuestión de experiencia. El reto es <strong>técnico</strong>. Hemos identificado los 3 pilares donde las firmas líderes están ganando terreno:
+                                    </p>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding:0 40px 20px 40px;">
+                                    <div class="challenge-box">
+                                        <span class="section-title">01. Escalabilidad Operativa</span>
+                                        <h3 style="color:#ffffff; margin:10px 0; font-size:18px;">Adiós al "Caos Digital"</h3>
+                                        <p style="color:#b0b8c1; font-size:14px; margin:0; line-height:1.5;">
+                                            Centralizamos su gestión financiera y de clientes en un ecosistema SaaS único. Elimine la duplicidad y escale sin aumentar su carga administrativa.
+                                        </p>
+                                    </div>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding:0 40px 20px 40px;">
+                                    <div class="challenge-box">
+                                        <span class="section-title">02. Inteligencia de Datos</span>
+                                        <h3 style="color:#ffffff; margin:10px 0; font-size:18px;">De Reportes a Ganancias Predecibles</h3>
+                                        <p style="color:#b0b8c1; font-size:14px; margin:0; line-height:1.5;">
+                                            Implementamos IA para transformar datos en tableros de ROAS en tiempo real. Demuestre el impacto financiero real de su consultoría.
+                                        </p>
+                                    </div>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td align="center" style="padding:10px 40px 30px 40px;">
+                                    <img src="https://storage.googleapis.com/msgsndr/TflE3Je6BY5vwRAtoeGL/media/698245917cf44b4342b0931a.gif" alt="Ecosistema Digital" width="520" style="border-radius:8px; border: 1px solid rgba(11,172,150,0.2);" />
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding:0 40px 40px 40px;">
+                                    <div class="challenge-box">
+                                        <span class="section-title">03. Brecha Digital</span>
+                                        <h3 style="color:#ffffff; margin:10px 0; font-size:18px;">Confianza en la Informalidad Técnica</h3>
+                                        <p style="color:#b0b8c1; font-size:14px; margin:0; line-height:1.5;">
+                                            Traducimos herramientas complejas en beneficios tangibles para sus clientes, asegurando que la tecnología sea un motor de inclusión y no una barrera.
+                                        </p>
+                                    </div>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding:0 40px 40px 40px; text-align:center; background-color: rgba(11,172,150,0.05);">
+                                    <div style="padding:30px;">
+                                        <h2 style="color:#ffffff; font-size:22px; margin:0 0 15px 0;">Tenemos el conocimiento y la experiencia.</h2>
+                                        <p style="color:#b0b8c1; font-size:15px; margin:0 0 25px 0;">
+                                            Ayudamos a consultoras a cerrar la brecha digital con planes desde <strong>$180 USD/mes</strong>.
+                                        </p>
+                                        <a href="https://mypimes.co/cotizacion" target="_blank" style="background-color:#0BAC96; color:#ffffff; padding:15px 35px; text-decoration:none; border-radius:8px; font-weight:bold; display:inline-block; text-transform:uppercase; font-size:13px;">
+                                            Transformar mi Consultora &rarr;
+                                        </a>
+                                    </div>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding:40px; background-color:#08121c; text-align:center;">
+                                    <p style="color:#5c6b7f; font-size:12px; margin:0;">
+                                        Enviado por Mypimes.co - Consultoría en Transformación Digital.<br>
+                                        Si prefiere una charla directa: <a href="https://mypimes.co" style="color:#0BAC96; text-decoration:none;">Agende un Meet aquí</a>.
+                                    </p>
+                                </td>
+                            </tr>
+
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </center>
+</body>
+</html>
